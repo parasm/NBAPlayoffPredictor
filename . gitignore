@@ -1,0 +1,15 @@
+jupyter_notebook/notebook/static/mathjax
+jupyter_notebook/static/style/*.map
+*.py[co]
+__pycache__
+*.egg-info
+*~
+*.bak
+.ipynb_checkpoints
+.tox
+.DS_Store
+\#*#
+.#*
+.cache
+.coverage
+*.swp
